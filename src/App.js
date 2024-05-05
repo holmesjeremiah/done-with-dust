@@ -13,8 +13,8 @@ function App() {
     <div>
       <CustomNav />
       <Banner />
-      <Section id={'services'} title={'Our Services'} background={'#242424'} titleTextColor={'#f17a96'} titleBorderColor={'#fff'} data={services} />
-      <Section id={'pricing'} title={'Our Pricing'} background={'linear-gradient(to right, #f17a96, #fad0c4)'} titleTextColor={'#fff'} titleBorderColor={'#fff'} data={pricing} />
+      <Section id={'services'} title={'Services'} background={'#242424'} titleTextColor={'#f17a96'} titleBorderColor={'#fff'} data={services} />
+      <Section id={'pricing'} title={'Pricing'} background={'linear-gradient(to right, #f17a96, #fad0c4)'} titleTextColor={'#fff'} titleBorderColor={'#fff'} data={pricing} />
       <AboutUs />
     </div>
 
