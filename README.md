@@ -6,7 +6,7 @@ This is a single-page application (SPA) for a company that provides cleaning ser
 
 ## Features
 
-- Responsive navbar with offcanvas menu for mobile
+- Responsive navbar with offcanvas menu for mobile navigation
 - Book Now button that displays a form
 - Integration with EmailJS to send booking form data to a specified email upon submission
 - Header with short bio and contact information
