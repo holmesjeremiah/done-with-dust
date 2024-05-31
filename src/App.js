@@ -1,12 +1,12 @@
 import React, { useRef, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import CustomNav from './Components/Navbar/CustomNav';
 import Banner from './Components/Banner';
 
 
 import AboutUs from './Components/AboutUs';
 import Section from './Components/Elements/Section';
 import { pricing, services } from './SiteData';
+import CustomNav from './Components/Elements/Navbar/CustomNav';
 
 function App() {
   return (

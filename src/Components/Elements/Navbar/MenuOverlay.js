@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { RiCloseCircleLine } from "react-icons/ri";
-import CustomButton from '../Elements/CustomButton';
+import CustomButton from '../../Elements/CustomButton';
 
 const MenuOverlay = ({ navItems, navElements }) => {
   const [isOpen, setIsOpen] = useState(false);

@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import navLogo from '../../imgs/navLogo.png';
-import CustomButton from '../Elements/CustomButton';
+import navLogo from '../../../imgs/navLogo.png';
+import CustomButton from '../../Elements/CustomButton';
 import MenuOverlay from './MenuOverlay';
 import { Modal } from 'react-bootstrap';
-import BookNow from '../BookNow';
+import BookNow from '../../BookNow';
 
 
 function CustomNav() {
